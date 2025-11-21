@@ -1,0 +1,11 @@
+{
+  "email": {
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "sender_email": "your-email@gmail.com",
+    "sender_password": "your-app-password",
+    "recipient_email": "jessesrothman@gmail.com"
+  },
+  "database_path": "news_articles.db",
+  "send_empty_digest": false
+}
